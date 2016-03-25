@@ -18,3 +18,4 @@ fi
 ```
 
 # License
+[MIT LISENCE](https://github.com/minoritea/yesno/blob/master/LICENSE)
